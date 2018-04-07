@@ -1,3 +1,6 @@
+//换行停止命令的a+b
+//重点是while的使用，保证能够一直输入
+
 #include <stdio.h>
 #include <stdlib.h>
 
